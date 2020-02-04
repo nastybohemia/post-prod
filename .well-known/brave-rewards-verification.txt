@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: post-production.team
+Token: a2951a863626b2955ede82ed3f131b30ce85ecf31c573fa8a8f01e6e75a88b3c
