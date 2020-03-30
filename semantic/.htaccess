@@ -1,0 +1,7 @@
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/postmyvp/semantic"
+PassengerBaseURI "/semantic"
+PassengerNodejs "/home/postmyvp/nodevenv/semantic/10/bin/node"
+PassengerAppType node
+PassengerStartupFile /tasks/install.js
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END

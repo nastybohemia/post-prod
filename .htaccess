@@ -1,1 +1,7 @@
-
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/postmyvp/home/postmyvp/reveal.js"
+PassengerBaseURI "/"
+PassengerNodejs "/home/postmyvp/nodevenv/home/postmyvp/reveal.js/10/bin/node"
+PassengerAppType node
+PassengerStartupFile bower.json
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END
